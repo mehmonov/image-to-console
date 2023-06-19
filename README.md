@@ -10,7 +10,7 @@ Dasturni ishlatish uchun, avvalo `Pillow` kutubxonasini o'rnatishingiz kerak:
 pip install Pillow
 
 ```
-ishga tushuring:
+Ishga tushuring:
 
 ```bash
 python main.py 
