@@ -20,4 +20,4 @@ Agar sizning powershell dasturingizda bu script ishlamasa, bu buyruqni kiriting:
 ```bash
 Set-ItemProperty HKCU:\Console VirtualTerminalLevel -Type DWORD 1
 ```
-## muallif: Husniddin
+## ©️: Husniddin
